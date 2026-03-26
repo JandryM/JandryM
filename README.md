@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jandry Moreira</h1>
-<p align="center">Ingeniero en Tecnologías de la Información | Backend Developer</p>
+<p align="center">Ingeniero en Tecnologías de la Información</p>
 
 ---
 
