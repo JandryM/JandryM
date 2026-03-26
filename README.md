@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Jandry Moreira</h1>
 <p align="center">Ingeniero en Tecnologías de la Información</p>
+<p align="center">Manta, Ecuador</p>
 
 ---
 
